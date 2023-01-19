@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "My Extension",
+  "version": "1.0.0", 
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5J4bvO/8lb8XBc8D0ZMZbvHaccCMlaq9PfnY99PLmxPdCsl3MzuvGZzuJUNFCn7xatckkUJlXnjJEx9clrfSHD1Ix/DcE6LGAqZuM3RcKsAnjLL5iPlPYjJsLAKyNDRwgOiuXhN/P1kF4z+5LBpU8fZ26tB17pYyT+t2Gl8rB3ymN2J4YDyTilRP3ipro0CfmM3rhCncFZ9QkYiqMSrgw8ST5b/XLa2XlBR0VOPLGotT2nBi5hSmKyWaqT2hnH9koaPZa7uv2xp40G+M/NPGpcOCx84sQfKcq0PdhL1sORY5SsGNEnLzPRAqBjm2YwHSZRX/c1KwGtMck8/JPz6VUQIDAQAB",
+  "background":{
+      "service_worker": "hello-world-service-worker.js"
+  }
+}
